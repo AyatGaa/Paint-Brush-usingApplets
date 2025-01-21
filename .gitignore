@@ -1,0 +1,31 @@
+*.mp4
+*.png
+
+PaintBrush/
+*.class
+
+# IDE-specific files
+.idea/
+*.iml
+out/
+.classpath
+.project
+.settings/
+nbproject/
+
+# Build artifacts
+bin/
+build/
+dist/
+target/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Generated JAR/WAR files
+*.jar
+*.war
